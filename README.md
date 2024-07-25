@@ -10,7 +10,11 @@
 ## My skills
 
 ### Programming languages
-<p align="center>[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,java,dart)](https://skillicons.dev)</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,dartm" />
+  </a>
+</p>
   
 ### Web development
 <p align="center" >
