@@ -10,8 +10,9 @@
 ## My skills
 
 ### Programming languages
+<p align="center>
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,java,dart)](https://skillicons.dev)
-
+  </p>
 ### Web development
 <p align="center" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
@@ -35,6 +36,7 @@
   <img src= "https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
   <img src= "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="AndroidStudio"/>
   <img src= "http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="AndroidStudio" />
-  <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" / >
+  <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge
+&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" / >
 </p>
 
