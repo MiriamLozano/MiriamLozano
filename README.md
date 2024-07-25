@@ -11,8 +11,9 @@
 
 ### Programming languages
 <p align="center>
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,java,dart)](https://skillicons.dev)
-  </p>
+  [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,java,dart)](https://skillicons.dev)
+</p>
+  
 ### Web development
 <p align="center" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
