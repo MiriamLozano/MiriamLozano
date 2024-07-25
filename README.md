@@ -8,6 +8,7 @@
 - :+1: Interested in mobile development, web development, AI and Cloud computing.
 
 ## My skills
+
 ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,java,dart)](https://skillicons.dev)
 
