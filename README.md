@@ -12,7 +12,7 @@
 ### Programming languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,dartm" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,dart" />
   </a>
 </p>
   
