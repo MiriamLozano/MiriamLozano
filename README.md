@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Miriam :wave: </h1>
 </div>
+
 ## About me
 - :mortar_board: I'm a computer engineering student at University of Jaen
 - :snake: Currently learning Python 
