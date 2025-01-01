@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-- :mortar_board: I'm a computer engineering student at [University of Jaen](https://www.ujaen.es/)
+- :mortar_board: I'm a computer engineering student at [University of Jaen](https://www.ujaen.es/) / [Adam Mickiewicz University, Poznan] https://amu.edu.pl/en
 - :snake: Currently learning Python 
 - :+1: Interested in mobile development, cybersecurity, web development, AI and Cloud computing.
 
