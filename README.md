@@ -42,4 +42,12 @@
   <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VisualStudioCode" />
 </p>
 
+### Certificates
+
+!(https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
+**Introduction to Cybersecutiry**
+Issued by Cisco via Credly
+📆 Issued: 15 june 2025
+🔗 [Watch certificate](https://www.credly.com/badges/f1077ba9-872c-45a7-8b6c-278983f61a9d/public_url)
+
 
