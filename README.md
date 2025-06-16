@@ -44,10 +44,15 @@
 
 ### Certificates 
 
-<a href="https://www.credly.com/badges/YOUR-BADGE-ID" target="_blank"> <img src="https://images.credly.com/size/110x110/images/0c6e4ffb-bbca-4aff-a7b2-3ba61e6a4e27/Introduction_to_Cybersecurity_Badge.png" alt="Cisco Introduction to Cybersecurity" style="vertical-align: middle; margin-right: 10px;"> </a>
+<a href="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" target="_blank"> <img src=
+"https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" style="vertical-align: middle; margin-right: 10px;"> </a>
+
 **Introduction to Cybersecurity** 
+
 Issued by Cisco via Credly 
+
 📅 Issued: 15 June 2025 
+
 🔗 [View certificate](https://www.credly.com/badges/f1077ba9-872c-45a7-8b6c-278983f61a9d/public_url) 
 
 
