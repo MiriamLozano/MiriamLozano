@@ -7,6 +7,12 @@
 - :snake: Currently learning Python 
 - :+1: Interested in cybersecurity, networking and Cloud computing.
 
+## My projects
+#### 🛡️ ARP Spoofing in Local Networks: Attack Simulation, Traffic Analysis, and Mitigation
+
+This project explores ARP spoofing attacks in LANs, demonstrating interception techniques and mitigation strategies. 
+
+- Check it out: ([https://github.com/MiriamLozano/arp-spoofing-lan-analysis/tree/main](https://github.com/MiriamLozano/arp-spoofing-lan-analysis.git))
 ## My skills
 
 ### Programming languages
