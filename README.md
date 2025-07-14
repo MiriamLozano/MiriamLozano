@@ -5,7 +5,7 @@
 ## About me
 - :mortar_board: I'm a computer engineering student at [University of Jaen](https://www.ujaen.es/) / [Adam Mickiewicz University, Poznan](https://amu.edu.pl/en)
 - :snake: Currently learning Python 
-- :+1: Interested in mobile development, cybersecurity, web development, AI and Cloud computing.
+- :+1: Interested in cybersecurity, networking and Cloud computing.
 
 ## My skills
 
@@ -20,7 +20,8 @@
 <p align="center" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" /> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+ alt="php" /> 
 </p>
 
 ### Software and tools
